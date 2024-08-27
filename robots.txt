@@ -1,1 +1,1 @@
-Sitemap: https://avehtari.github.io/BDA_course_Aalto/sitemap.xml
+Sitemap: https://andrjohns.github.io/BDA_course_Aalto/sitemap.xml
